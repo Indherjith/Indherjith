@@ -20,7 +20,7 @@
 
 - 🌱 I’m Currently learning MERN stack at MASAI school.
 
-- 💞️ I like to watch tech. videos and playing video games more often.
+- 💞️ I like to watch tech videos and travelling by bike more often.
 
 - 💬 Have a look at my [portfolio](https://buvaneswaran.netlify.app/).
 
