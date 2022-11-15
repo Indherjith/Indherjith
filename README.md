@@ -5,8 +5,8 @@
 </p>
 
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=SuryatejaParvata.SuryatejaParvata)
-[![Github](https://img.shields.io/github/followers/SuryatejaParvata?label=Follow&style=social)](https://github.com/SuryatejaParvata)
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=Indherjith.Indherjith)
+[![Github](https://img.shields.io/github/followers/Indherjith?label=Follow&style=social)](https://github.com/Indherjith)
 
 <div size='20px'> Hi! My name is Buvaneswaran S. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
@@ -38,7 +38,6 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/buvaneswaran-s-b63844228/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://twitter.com/BuvaneswaranS6'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://indherjith.github.io/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 <a href = 'https://www.github.com/Indherjith'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
   
