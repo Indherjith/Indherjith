@@ -43,8 +43,8 @@
 <br>
 <br>
   <br>
-  
-[![Buvaneswaran's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Indherjith&theme=tokyonight)](https://git.io/praveenscience)
+<!--   
+[![Buvaneswaran's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Indherjith&theme=tokyonight)](https://git.io/praveenscience) -->
 
 | ![Buvaneswaran's github stats](https://github-readme-stats.vercel.app/api?username=Indherjith&show_icons=true&theme=tokyonight) | ![SuryatejaParvata GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Indherjith&theme=tokyonight) |
 | --- | --- |
