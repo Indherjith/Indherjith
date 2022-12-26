@@ -46,7 +46,7 @@
 <!--   
 [![Buvaneswaran's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Indherjith&theme=tokyonight)](https://git.io/praveenscience) -->
 
-| ![Buvaneswaran's github stats](https://github-readme-stats.vercel.app/api?username=Indherjith&show_icons=true&theme=tokyonight) | ![SuryatejaParvata GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Indherjith&theme=tokyonight) |
+| ![Buvaneswaran's github stats](https://github-readme-stats.vercel.app/api?username=Indherjith&show_icons=true&theme=tokyonight) | ![Indherjith GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Indherjith&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Indherjith&theme=tokyonight) | Well...That's all ♾️ <br> Have a li'l smile 😄 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)|
 
